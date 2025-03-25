@@ -144,4 +144,4 @@ Model Path: Make sure that the model file bert_disaster_model.pth is in backend/
 
 This simplified README provides clear, concise instructions for setting up and running the application, focusing on the essential steps. It avoids technical jargon where possible and provides direct commands to execute. It also includes crucial reminders about security (the .env file) and prerequisites.
 
-
+Train Flood.ipynb to get the pth file
