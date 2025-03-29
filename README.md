@@ -5,6 +5,7 @@ This project classifies tweets as either "Relevant" or "Not Relevant" to a flood
 ## How to Run the Project
 
 Here's how to get the project up and running on your computer:
+Train Flood.ipynb to get the pth file and it might take you half a day so be prepared
 
 **1. What You'll Need (Prerequisites):**
 
@@ -143,5 +144,3 @@ Keep the .env file secret! Never share it or upload it to a public repository (l
 Model Path: Make sure that the model file bert_disaster_model.pth is in backend/models folder.
 
 This simplified README provides clear, concise instructions for setting up and running the application, focusing on the essential steps. It avoids technical jargon where possible and provides direct commands to execute. It also includes crucial reminders about security (the .env file) and prerequisites.
-
-Train Flood.ipynb to get the pth file and it might take you half a day so be prepared
